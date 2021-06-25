@@ -1,0 +1,163 @@
+<mxfile host="app.diagrams.net" modified="2021-06-25T14:51:37.656Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="VJL_WD4d08B3iqgmQDns" version="14.8.0" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1853" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-10" y="680" width="470" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="게임 컨텐츠&lt;br&gt;선택" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="170" y="460" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="문제 출제" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="161" y="708" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="(대표 게임)&lt;br&gt;신서유기 인물퀴즈" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="161" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-0" value="GiGA Genie&lt;br&gt;플랫폼 실행" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="176" y="350" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-3" value="호출어 실행으로 Start !" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="281" y="370" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-5" value="시간 카운팅&lt;br&gt;시작" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="161" y="768" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-9" value="IoT 부저&lt;br&gt;누르기" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="192" y="930" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-17" value="GiGA Genie STT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="222" y="1050" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-20" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Z78VOnooqBE1KKXO5WaL-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="221" y="748" as="sourcePoint" />
+            <mxPoint x="222" y="758" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-24" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220.71000000000004" y="808" as="sourcePoint" />
+            <mxPoint x="220.71000000000004" y="828" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-25" value="대답 발화" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="163" y="1010" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-31" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220.71" y="540" as="sourcePoint" />
+            <mxPoint x="220.71" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-43" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="222.60000000000002" y="1050" as="sourcePoint" />
+            <mxPoint x="222.60000000000002" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-44" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;startArrow=none;fontStyle=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z78VOnooqBE1KKXO5WaL-53" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
+          <mxGeometry x="-1" y="-113" relative="1" as="geometry">
+            <mxPoint x="-24" y="69" as="offset" />
+            <mxPoint x="81" y="728" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="101" y="728" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-45" value="정답 판별" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="172" y="1071" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-47" value="&lt;b&gt;No&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Z78VOnooqBE1KKXO5WaL-52" edge="1">
+          <mxGeometry x="-0.3688" y="16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="222" y="1139" as="sourcePoint" />
+            <mxPoint x="369" y="1258" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="222" y="1206" />
+              <mxPoint x="349" y="1206" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-52" value="종료 또는 재실행" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="283" y="1313" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-53" value="&quot; 정답입니다 ! &quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="41" y="1121" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=none;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z78VOnooqBE1KKXO5WaL-45" target="Z78VOnooqBE1KKXO5WaL-53" edge="1">
+          <mxGeometry x="-0.6817" y="-15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="162" y="746" as="targetPoint" />
+            <mxPoint x="222" y="1116" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="222" y="1206" />
+              <mxPoint x="101" y="1206" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-55" value="GiGA Genie TTS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-21" y="1168" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-59" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220.71000000000004" y="629.9999999999999" as="sourcePoint" />
+            <mxPoint x="220.71000000000004" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-60" value="문제 Pool 생성을 위한 데이터 수집 과정에서 AI 이미지 라벨링 활용" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="718" width="368" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z78VOnooqBE1KKXO5WaL-63" value="" style="endArrow=none;dashed=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Z78VOnooqBE1KKXO5WaL-60" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="109" y="768" as="sourcePoint" />
+            <mxPoint x="159" y="718" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oedAruaqHAoybQQ4_3vx-0" value="시간 초과" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="171" y="828" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oedAruaqHAoybQQ4_3vx-14" value="IoT Makers&lt;br&gt;버튼 인식" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="252" y="950" width="91" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oedAruaqHAoybQQ4_3vx-18" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="221.42999999999992" y="990" as="sourcePoint" />
+            <mxPoint x="221.42999999999992" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oedAruaqHAoybQQ4_3vx-19" value="&lt;b&gt;Yes&lt;br&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oedAruaqHAoybQQ4_3vx-0" target="Z78VOnooqBE1KKXO5WaL-52" edge="1">
+          <mxGeometry x="-0.9358" y="13" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="222" y="879" as="sourcePoint" />
+            <mxPoint x="369" y="1148" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="349" y="853" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oedAruaqHAoybQQ4_3vx-22" value="&lt;b&gt;No&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Z78VOnooqBE1KKXO5WaL-9" edge="1">
+          <mxGeometry x="-0.1538" y="18" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="222" y="878" as="sourcePoint" />
+            <mxPoint x="222" y="910" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oedAruaqHAoybQQ4_3vx-27" value="&quot; 땡 ! &quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="1253" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oedAruaqHAoybQQ4_3vx-28" value="GiGA Genie TTS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340" y="1226" width="130" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

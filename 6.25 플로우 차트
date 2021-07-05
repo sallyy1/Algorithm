@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T01:13:55.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="w4NuyegAlpgUz77VXVkU" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T01:16:43.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="JVwX4k01qDXpo_JNQJha" version="14.8.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2331" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -328,6 +328,12 @@
         </mxCell>
         <mxCell id="pogaFMFoQGGCg5O_Inne-95" value="문제 이미지" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-319" y="585" width="99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pogaFMFoQGGCg5O_Inne-97" value="AI 모션 인식 기술 활용" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="1040" width="137" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pogaFMFoQGGCg5O_Inne-98" value="AI 이미지 분류 기술 활용" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="940" width="137" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
